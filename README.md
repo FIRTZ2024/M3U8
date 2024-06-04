@@ -45,6 +45,20 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159389
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/156072.ts
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION",CNN en Español
 http://190.61.43.117:45000/play/a044
+#EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION",CNN Chile HD
+http://45.179.164.30:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS E INFORMACION",CNN Internacional
+http://45.226.67.3:58001/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NOTICIAS E INFORMACION",BBC World News
+http://45.179.164.30:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 201 | 24 horas tve
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="NOTICIAS E INFORMACION", 188 | France 24
+http://177.234.247.66:8888/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="FR | Euronews" tvg-name="FR | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/245px-Euronews_2016_logo.svg.png" group-title="NOTICIAS E INFORMACION", 189 | Euronews
+http://177.234.230.226:8010/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://lh3.googleusercontent.com/-36ZvtH-DlwY/YH3RC_yNV7I/AAAAAAABBuw/BZyMcxu0rB8npsk2JFP2hUBz75i_zO0cgCK8BGAsYHg/s512/2021-04-19.png", HispanTV | IR
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español | RU
@@ -273,6 +287,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 http://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1,SEÑAL PERU
 https://livestream.perucast.com/low/stream.m3u8
+#EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
+https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="CL | LIKE TV" tvg-name="PE | LIKE TV" tvg-logo="https://likemedia.group/wp-content/uploads/2023/02/Like-TV-2-300x197.png" group-title="REGIONALES", 379 | LIKE TV || CL
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PERU",KBO Quillabamba
@@ -518,24 +534,7 @@ http://38.56.118.88:4000/play/a00m/index.m3u8
 http://45.179.164.30:8000/play/a0c9/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tv-chile-2010-20168903.logowik.com.webp",TV CHILE 
 http://45.179.164.30:8000/play/a07f/index.m3u8
-#EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION",CNN Chile HD
-http://45.179.164.30:8000/play/a04t/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS E INFORMACION",CNN Internacional
-http://45.226.67.3:58001/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NOTICIAS E INFORMACION",BBC World News
-http://45.179.164.30:8000/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NOTICIAS E INFORMACION", 201 | 24 horas tve
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="NOTICIAS E INFORMACION", 188 | France 24
-http://177.234.247.66:8888/play/a06x/index.m3u8
-#EXTINF:-1 tvg-id="FR | Euronews" tvg-name="FR | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/245px-Euronews_2016_logo.svg.png" group-title="NOTICIAS E INFORMACION", 189 | Euronews
-http://177.234.230.226:8010/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Cable Peru" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" group-title="CANALES PERU",Cable Peru
-https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1,MI MUSICA POPULAR HD
 http://177.234.230.226:8010/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
