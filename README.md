@@ -187,7 +187,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfi
 #EXTINF:-1 tvg-id="PE | Perú Mágico" tvg-name="PE | Perú Mágico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Peru_magico.png/200px-Peru_magico.png" group-title="INTERNACIONALES", 375 | Perú Mágico FHD
 http://38.56.118.88:4000/play/a076/index.m3u8 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Peru",PER-Movistar Plus TV (M)(720)
-http://38.56.118.88:4000/play/a03n/index.m3u8
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/3327.ts 
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú HD
 http://38.56.118.88:4000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 8 | Canal N
