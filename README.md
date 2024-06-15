@@ -617,6 +617,14 @@ http://appleuhd.us:80/lista149/2818424242/777
 http://appleuhd.us:80/lista149/2818424242/778
 #EXTINF:-1,ORLANDO VS INTER MIAMI
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224543.ts
+#EXTINF:-1,Option 04 - (Events Only)
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224545.ts
+#EXTINF:-1,Option 05 - (Events Only)
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224546.ts
+#EXTINF:-1,Option 09 - (Events Only)
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224550.ts
+#EXTINF:-1,Option 10 - (Events Only)
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224551.ts
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/star2099.jpg",STAR PLUS
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152908.ts
 #EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", ESPN HD
