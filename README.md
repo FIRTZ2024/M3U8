@@ -11,9 +11,7 @@ http://hardcoremedia.xyz:80/rabdsbmz/3731346838/5287
 #EXTINF:-1 tvg-id="" tvg-name="MX | PLUTO TV COCINA" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | PLUTO TV COCINA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="MX | PLUTO TV RECETAS" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="24/7 | PLUTO",MX | PLUTO TV RECETAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
-#EXTINF:-1,MX || MIL SABORES HD
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/159980.ts
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Cocina 1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Cocina 2
@@ -615,18 +613,7 @@ http://appleuhd.us:80/lista149/2818424242/776
 http://appleuhd.us:80/lista149/2818424242/777
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",SPORTV 3 4K 
 http://appleuhd.us:80/lista149/2818424242/778
-#EXTINF:-1,ORLANDO VS INTER MIAMI
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224543.ts
-#EXTINF:-1,Option 04 - (Events Only)
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224545.ts
-#EXTINF:-1,Option 05 - (Events Only)
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224546.ts
-#EXTINF:-1,Option 09 - (Events Only)
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224550.ts
-#EXTINF:-1,Option 10 - (Events Only)
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/224551.ts
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/star2099.jpg",STAR PLUS
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152908.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", ESPN HD
 http://45.179.164.30:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 2 HD" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTRBt4ewzEfnY5JKhNPNx0s4TevGJijavKA&usqp=CAU" group-title="DEPORTES", 234 | ESPN 2 HD
