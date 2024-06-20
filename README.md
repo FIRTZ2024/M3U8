@@ -380,7 +380,7 @@ http://177.234.247.66:8888/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 103 | Star Channel
 http://177.234.247.66:8888/play/a019/index.m3u8
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/Multipremier_2020.png/revision/latest?cb=20220115005213&path-prefix=es",Multipremier+
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/70.ts
+http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/MULTICINEMA.png/revision/latest/scale-to-width-down/250?cb=20230304224643&path-prefix=es",MULTICINEMA
 http://160.20.165.246:8000/play/a00a/index.m3u8
 
@@ -393,7 +393,7 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png" group-title="Peliculas",DHE HD
 http://179.1.146.21:8000/play/a06u/index.m3u8
 #EXTINF:-1, tvg-logo="https://e7.pngegg.com/pngimages/753/808/png-clipart-shamrock-four-leaf-clover-clover-shamrock-four-leaf-clover-thumbnail.png" group-title="Peliculas",Clover HD
-http://181.78.208.237:8000/play/a00e/index.m3u8
+http://160.20.165.246:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Family" tvg-name="USA | FMH Family" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg" group-title="PELICULAS Y SERIES", 129 | FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="USA | FMH MOVIES" tvg-name="USA | FMH MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAJ-PUCbq0xIdynydEKLuCkWy-aqAJ73ygEnpoNh--48k6-JuTJsDZL6ubLkuleXLq5A&usqp=CAU" group-title="PELICULAS Y SERIES", 129 | FMH MOVIES
