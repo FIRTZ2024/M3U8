@@ -195,7 +195,7 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/3327.ts
 #EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU",TV Perú HD
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | Canal N" tvg-name="PE | Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/100px-Canal_N_2022.png" group-title="NOTICIAS E INFORMACION", 8 | Canal N
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/3333.ts
+http://18580753888467038.otjb0606.xyz:80/live/FFA240412/DAFRG73648R/859109.ts
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV HD
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU",ATV+ Noticias HD
@@ -605,8 +605,8 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/135643.ts
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/135644.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbeQcKo8CVIikz2BtHWetgq4MnedhEWTuX9cZvRkGvg&s", SKY SPORTS LA LIGA
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV+ HD
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/226217.ts
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV1 HD
+http://569524638491623298.otjb0606.xyz:80/play/FFA240412/DAFRG73648R/623298.ts
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png",SPORTV 1 HDR 
 http://appleuhd.us:80/lista149/2818424242/776
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",SPORTV 2 4K 
