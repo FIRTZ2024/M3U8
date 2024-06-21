@@ -118,9 +118,12 @@ http://181.78.27.128:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", TELEMUNDO MIAMI
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159383
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", TELEMUNDO INTERNACIONAL
-http://38.56.118.88:4000/play/a03t/index.m3u8
+http://160.20.165.246:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",Univision HD
-http://204.199.122.4:8000/play/b027/index.m3u8
+http://873404838171467038.otjb0606.xyz:80/live/FFA240412/DAFRG73648R/855515.ts
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",UNIVISION TLNOVELAS
+http://873404838171467038.otjb0606.xyz:80/live/FFA240412/DAFRG73648R/855517.ts
+http://873404838171467038.otjb0606.xyz:80/live/FFA240412/DAFRG73648R/861525.ts http://204.199.122.4:8000/play/b027/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ1s1ZI4OdHAaJeSIVH7R4DSi2awDNIZhbA&usqp=CAU",UNIMAS HD
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159389
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX70: UNICABLE FHD
@@ -161,8 +164,7 @@ http://38.41.8.1:8000/play/a03i
 http://45.179.164.30:8000/play/a0dr/index.m3u8
 #EXTINF:-1, CUBAVISION
 http://45.179.164.30:8000/play/a0dt/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png", LA TELE CANAL 28.1 AIRE DIGITAL
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/4883.ts
+
 #EXTINF:-1 tvg-id="CL | Canal 13" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE",Canal 13 HD CHILE
 http://45.179.164.30:8000/play/a022/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcz1Cyx_e2oJCxTWbQOXgvc7teKA0e8GkRbMCTc-YVN5ksUotMCinX_63oQypDjpTRBZ0&usqp=CAU" group-title="INTERNACIONAL",TVN HD
@@ -223,7 +225,7 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU",Exitosa HD
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
-http://bantel.iptvperu.tv:1935/astra/PBO/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/PBO.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU",Viva TV HD
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/vivaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU",Willax HD
@@ -596,17 +598,21 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1099 | Canal 5 HD || MÉXICO
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/3719.ts
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1101 | Azteca 7 HD || MÉXICO
-http://181.78.105.146:2000/play/a08z/index.m3u8
+http://873404838171467038.otjb0606.xyz:80/live/FFA240412/DAFRG73648R/867606.ts 
 #EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES",DSports HD
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/135642.ts
 #EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES",DSports 2 HD
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/135643.ts
 #EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES",DSports + HD
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/135644.ts
+http://873404838171467038.otjb0606.xyz:80/live/FFA240412/DAFRG73648R/863773.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbeQcKo8CVIikz2BtHWetgq4MnedhEWTuX9cZvRkGvg&s", SKY SPORTS LA LIGA
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-512x512.png",SPORT TV1 HD
 http://569524638491623298.otjb0606.xyz:80/play/FFA240412/DAFRG73648R/623298.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/153px-Logo_Univision_2019.svg.png",Univision Dallas
+http://873404838171467038.otjb0606.xyz:80/live/FFA240412/DAFRG73648R/861525.ts
+#EXTINF:-1,ES M+ PLUS+ FHD COPA AMERICA
+http://569524638491646233.otjb0606.xyz:80/play/FFA240412/DAFRG73648R/646233.ts
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png",SPORTV 1 HDR 
 http://appleuhd.us:80/lista149/2818424242/776
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",SPORTV 2 4K 
