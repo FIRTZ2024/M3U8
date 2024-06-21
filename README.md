@@ -85,8 +85,7 @@ https://livestream.perucast.com/low/stream.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="CL | LIKE TV" tvg-name="PE | LIKE TV" tvg-logo="https://likemedia.group/wp-content/uploads/2023/02/Like-TV-2-300x197.png" group-title="REGIONALES", 379 | LIKE TV || CL
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",KBO Quillabamba
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="PERU",Genios TV Moyobamba
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PERU",AsiriTV
@@ -106,8 +105,6 @@ http://181.78.105.146:2000/play/a08b/index.m3u8
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CL | On Tour Channel" tvg-name="CL | On Tour Channel" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="ESTILOS DE VIDA", 219 | On Tour Channel
 https://marine2.miplay.cl/ontour/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4koGoljvt4LHRVAgt19_74fS6ihDBNtRrAMcmJOXuJebstUmToz_MeKjOBNDXFRpHxc&usqp=CAU" group-title="ESTILOS DE VIDA", CL | Más Chic
-http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
 
 #EXTINF:-1,CRONICA TV
 http://181.78.27.128:8000/play/a04k/index.m3u8
@@ -126,8 +123,7 @@ http://873404838171467038.otjb0606.xyz:80/live/FFA240412/DAFRG73648R/855517.ts
 http://873404838171467038.otjb0606.xyz:80/live/FFA240412/DAFRG73648R/861525.ts http://204.199.122.4:8000/play/b027/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ1s1ZI4OdHAaJeSIVH7R4DSi2awDNIZhbA&usqp=CAU",UNIMAS HD
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159389
-#EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX70: UNICABLE FHD
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/156072.ts
+
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION",CNN en Español
 http://190.61.43.117:45000/play/a044
 #EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION",CNN Chile HD
@@ -160,8 +156,7 @@ http://190.95.220.212:8000/play/a01n/index.m3u8
 http://38.41.8.1:8000/play/a03x
 #EXTINF:-1 tvg-id="VE | Venezolana de Televisión" tvg-name="VE | Venezolana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA", 512 | VTV || VENEZUELA
 http://38.41.8.1:8000/play/a03i
-#EXTINF:-1, ALBA TV
-http://45.179.164.30:8000/play/a0dr/index.m3u8
+
 #EXTINF:-1, CUBAVISION
 http://45.179.164.30:8000/play/a0dt/index.m3u8
 
@@ -201,9 +196,9 @@ http://18580753888467038.otjb0606.xyz:80/live/FFA240412/DAFRG73648R/859109.ts
 #EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV HD
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU",ATV+ Noticias HD
-http://bantel-cdn1.iptvperu.tv:1935/transcoderip/atvnoticiasmovil_t6.stream/playlist.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU",ATV Sur HD
+#EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-sur-pe.png" group-title="PERU",ATV Sur HD
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU",Global HD
