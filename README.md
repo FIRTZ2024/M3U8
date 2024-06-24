@@ -122,7 +122,8 @@ http://160.20.165.246:8000/play/a002/index.m3u8
 http://181.78.208.237:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ1s1ZI4OdHAaJeSIVH7R4DSi2awDNIZhbA&usqp=CAU",UNIMAS HD
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159389
-
+#EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO",MX70: UNICABLE FHD
+http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS E INFORMACION",CNN en Español
 http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/165327.ts
 #EXTINF:-1 tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS E INFORMACION",CNN Chile HD
@@ -219,7 +220,7 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU",Exitosa HD
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/PBO.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU",Viva TV HD
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/vivaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU",Willax HD
@@ -424,9 +425,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1p
 #EXTINF:-1 tvg-id="PE | Música Libre" tvg-name="PE | Música Libre" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="CANALES DE AUDIO", 1300 | Música Libre
 https://cloudvideo.servers10.com:8081/8010/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | Concert Channel" tvg-name="MX | Concert Channel" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="MUSICA Y REALITIES", 271 | Concert Channel
-https://cloudvideo.servers10.com:8081/8010/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="MUSICA",Vevo Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="MUSICA",Vevo Latino
@@ -443,24 +441,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=61bb9a63e0b39cfe304c9a8a
 #EXTINF:0 tvg-id="Classica.eu" group-title="MUSICA",Classica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJkrZMCI2GDLULbhFbmEtRuGnMUfuDx9YAkuZekUjjQ&s", MUSIC 4EVER
-rtmp://93.189.60.202//970
-#EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA Y REALITIES", 272 | Exa TV
-http://138.59.177.34:8000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="CL | Old Music TV" tvg-name="CL | Old Music TV" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="MUSICA Y REALITIES", 274 | Old Music Televisión
-https://marine2.miplay.cl/oldmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA Y REALITIES", 275 | Memorias TV
-https://mediacp.us:8081/8002/index.m3u8
+
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 281 | Radio Recuerdos Retro TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Top Latino" tvg-name="PE | Top Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA Y REALITIES", 282 | Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaTVMusic.cl" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="⚡MUSICA⚡",PlanetaTV Music (720p)
-https://scl.edge.grupoz.cl/music/live/music.m3u8
+
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://images2.imgbox.com/5d/f9/MwYlMnzK_o.png" group-title="⚡MUSICA⚡",V Classic TV 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="Bics", REAL MADRID TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="DEPORTES",Real Madrid TV HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
@@ -471,24 +458,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #EXTINF:0 tvg-id="ext" group-title="DEPORTE",beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1, tvg-logo="https://banner2.cleanpng.com/20180531/epq/kisspng-bandsports-high-definition-television-sky-latin-am-band-5b10772ca9a202.5709007015278057406948.jpg" group-title="Peliculas",BAND SPORTS
-http://187.95.95.243/Band-Sports/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="DEPORTES 2",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="DEPORTES 2",Abu Dhabi Sports 1 
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPKmNGqH1IUzEtI7ttOFDMkvy0qkVhR_u0Cq0q9V-ZZEb_YH3pvi9ID1wWreeiJ06g6M&usqp=CAU" group-title="DEPORTES 2",Abu Dhabi Sports 2 
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2 
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/2016/11/logo_sport_r1.png" group-title="DEPORTES 2",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567731683659489280/xm17tKS0.jpeg" group-title="DEPORTES 2", MAROC SPORTS
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="https://www.telemaroc.tv/img/logo.png" group-title="DEPORTES 2", TELEMAROC
-http://5.253.46.190:7001/play/a0cb/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="DEPORTES 2", Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png" group-title="DEPORTE", TELETRAK ARG
@@ -500,27 +478,18 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 #EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES", 240 | TyC Sports
 #EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://lh3.googleusercontent.com/-LY7wBMeb00g/X0EVEU18Z0I/AAAAAAAA4zc/j9mtkuTANto5mr8TApDQI1sdWnZ68z12ACK8BGAsYHg/s0/2020-08-22.png", All Sports | BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20ac" tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20ac" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSUGARFitness_logo_dark.png" group-title="USA",POPSUGAR Fitness
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=L5nSDEMpYfzaGH16TF7X&channelId=605a309dc5acdc002c7a20ac
-#EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="DEPORTES", 244 | Fitmaxx TV
-https://marine2.miplay.cl/fitmaxx/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | Sport Ext" tvg-name="CL | Sport Ext" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" group-title="DEPORTES", 245 | Sport Ext
-https://marine2.miplay.cl/sportext/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Undefined",TV Cuatro 4.1 (1080p)
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Undefined",TV Cuatro 4.2 (1080p)
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Undefined",TV Cuatro 4.3 (1080p)
-https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
 
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1273" tvg-name="Top Cine - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Top Cine - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1280" tvg-name="Tu Cine - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Tu Cine - Freetv.com | US
@@ -538,8 +507,6 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Real" tvg-name="USA | Cine Real" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png" group-title="PELICULAS Y SERIES", 97 | Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xR7pwbZLmg1dx5G9Kq210I8pmxaWUNDB_eNfQ3c97Ja7crPV",LA CIUDAD PERDIDA (2022)
-http://redima.pro:8880/movie/TISUCR/TISUCR/504.mp4
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-F_d9mIT2pZ0/VpafULKZvBI/AAAAAAAALaQ/oSAlYEDtPak/s500-Ic42/rolando-menendez-el-cipitio.jpg" group-title="PELICULAS",Las Aventuras Del Cipitio (El Cipitio Enamorado) 
 https://archive.org/download/las-aventuras-del-cipitio-el-cipitio-enamorado/Las%20Aventuras%20del%20Cipit%C3%ADo%20-%20El%20Cipit%C3%ADo%20Enamorado.ia.mp4
 #EXTINF:-1,007 James Bond contra Goldfinger (1964)
@@ -568,8 +535,6 @@ http://archive.org/download/trastornos-psicologicos/asm3sgjka.mp4
 http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
 #EXTINF:-1 tvg-id="" tvg-name="HD: Wonder Woman 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg" group-title="SUPER HEROES",HD: Wonder Woman 1984
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisdic%2Fnuevas%2Fiwonder%201984.mp4
-#EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/216696/216696_173x256.jpg",PARASITE
-http://magmas5.com:8000/movie/impejol2022/VJIUZWQ5G9/99674.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a03863_33e6084bc479415297ac4fb9b8a233d2~mv2.png/v1/fill/w_558,h_418,al_c,lg_1,q_85,enc_auto/arena_sport_1.png",ARENA SPORT 1
 http://80.252.37.194:5000/udp/233.233.233.3:12000
@@ -590,7 +555,7 @@ http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/148888.ts
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1099 | Canal 5 HD || MÉXICO
-http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/162239.ts  CANAL5 FHD MX R
+http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/162239.ts
 #EXTINF:-1 tvg-id="MX | Azteca 7" tvg-name="MX | Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/150px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", 1101 | Azteca 7 HD || MÉXICO
 http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/159474.ts 
 
