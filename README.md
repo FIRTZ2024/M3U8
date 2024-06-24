@@ -68,7 +68,7 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CR | Canal 21" tvg-name="CR | Canal 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="COSTA RICA", CANAL 21 ESA
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="INTERNACIONAL",CANAL 2 ESA
-http://45.179.164.30:8000/play/a0aa/index.m3u8
+http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/158405.ts
 #EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/D1EfOKoeihJzKyps7L-Iu3KzAsHZOEv9ULNedU8-NTgYqp2Us2l-PeWWwZ53ZdgZK-TS3HFLRw=s900-c-k-c0x00ffffff-no-rj",TELELIMA
 http://bantel.iptvperu.tv:1935/astralocal/TeleLima/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | JN19" tvg-name="PE | JN19" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="RELIGIOSOS",JN19 Televisión
@@ -207,7 +207,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="NOTICIAS E INFORMACION",RPP TV
-http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/4845.ts
+http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/162546.ts
 #EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="REGIONALES",Nativa Televisión
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Televisión
@@ -593,8 +593,10 @@ http://45.177.53.7:8000/play/a0jl/index.m3u8
 
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75", Liga 1 Max
+#EXTINF:-1 tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75", Liga 1
 http://177.53.153.20:8001/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="PE | Liga 1 Max" tvg-name="PE | Liga 1 Max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="DEPORTES", LIGA 1 MAX
+http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/162565.ts
 #EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="DEPORTES",GolTV HD
 http://38.56.118.88:4000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES",Gol Peru HD
