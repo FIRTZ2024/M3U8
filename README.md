@@ -16,8 +16,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="ESTILO DE VIDA",*Cocina 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="CL | Mundo & Sabor" tvg-name="CL | Mundo & Sabor" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="GASTRONOMÍA",Mundo & Sabor
-https://marine2.miplay.cl/mundoysabor/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VE | Sun Channel" tvg-name="VE | Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="ESTILOS DE VIDA",Sun Channel
 http://45.179.164.30:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="GASTRONOMÍA",Food Network HD
@@ -277,7 +276,7 @@ http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/159095.ts
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 60 | Pasiones
 http://200.59.188.3:8000/play/a00x
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-name="AR | Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/150px-Telefe_Internacional_%282018%29.png" group-title="INTERNACIONALES", 787 | Telefe Internacional || ARGENTINA
-http://38.56.118.88:4000/play/a06e/index.m3u8
+http://181.205.77.118:4849/play/a0c3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Eltrece_internacional.png",El Trece Internacional 
 http://177.234.230.226:8010/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",LAS ESTRELLAS HD
@@ -578,7 +577,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 http://181.205.77.118:4849/play/CH16
 #EXTINF:-1 tvg-id="CO | Win Sports+ HD" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES",Win Sports+ HD
 http://181.205.77.118:4849/play/CH14
-
 #EXTINF:-1 tvg-logo="https://futvcr.com/wp-content/themes/futv-wp/assets/images/2x/whitelogo@2x.png",FUTV HD CR
 http://45.179.164.30:8000/play/a0b2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1024px-TD_M%C3%A1s_Logo.png",TD+HD CR-80
